@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KDPZproject</string>
+    <string name="details">Details</string>
+    <string name="FragmentDesc">Cat Facts List</string>
+    <string name="cat_name">Кількість фактів про котів</string>
+    <string name="cat_desc">Cat fact length</string>
+    <string name="back">Повернутися</string>
+</resources>
